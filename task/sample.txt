@@ -1,0 +1,3 @@
+http://127.0.0.1:8000/?name=starbucks&location=delhi
+
+My google API key = AIzaSyDAERlVmOrLWdq0pHF5fK3c2cHmCSvy55I	
